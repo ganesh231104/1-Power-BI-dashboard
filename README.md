@@ -1,5 +1,3 @@
-https://github.com/ganesh231104/1-Power-BI-dashboard/blob/main/Power_BI_dashboard.png
-
 1. 📊 Mobile Sales Dashboard –  Report
 
 ---
